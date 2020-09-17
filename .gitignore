@@ -1,0 +1,9 @@
+# ディレクトリを指定する場合
+node_modules/
+.DS_Store
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
