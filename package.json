@@ -6,10 +6,26 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w3cdp6084-dev/task-runner-temp"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-eslint": "^6.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-pleeease": "^2.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-svgmin": "^2.2.0",
+    "gulp-uglify": "^3.0.2",
+    "node-notifier": "^7.0.2",
+    "process": "^0.11.10"
   }
 }
